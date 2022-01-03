@@ -30,3 +30,5 @@ if will_rain:
     print("Bring an umbrella")
 print(weather_slice)
 # print(json_data["hourly"][0]["weather"][0])
+
+#twilio
